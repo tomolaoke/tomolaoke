@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different interesting and challenging projects
 - 📫 How to reach me? tommola.oke@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ilove homemade food, swallow and soups. I am fighting procastination
+- ⚡ Fun fact:I love homemade food, swallow and soups. I am an overthinker lol
 - this should do for now I'm still a learner
 
 <!---
