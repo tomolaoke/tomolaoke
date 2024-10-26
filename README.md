@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tomolaoke, a Business Developer transitioning to Tech
+- 👋 Hi, I’m @tomolaoke
 - 👀 I’m interested in continous learning, creating things that meet daily needs, make life easier and fun.
-- 🌱 I’m currently learning and doing great with Backend Engneering @Verdac Tech, Software Development @3MTTNigeria
+- 🌱 I’m currently learning Backend Engneering @Verdac Tech, Software Development @3MTTNigeria
 - 💞️ I’m looking to collaborate on different interesting and challenging projects
 - 📫 How to reach me? tommola.oke@gmail.com, tomola.oke@hotmail.com
 - 😄 Pronouns: he/him
