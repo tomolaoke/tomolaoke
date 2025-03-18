@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @tomolaoke
 - 👀 I’m interested in continous learning, creating things that meet daily needs, make life easier and fun.
-- 🌱 Apprenticeship: Backend Engneering @Verdac Tech, Software Development @3MTTNigeria
+- 🌱 Apprenticeship: Backend Engneering @Verdac Tech, Software Development @3MTTNigeria, Software Development (FullStack) @SAIL Innovation Lab (CcHuB x findworka)
 - 💞️ I’m looking to collaborate on different interesting and challenging projects
-- 📫 How to reach me? tommola.oke@gmail.com, tomola.oke@hotmail.com
+- 📫 How to reach me? tommola.oke@gmail.com, trusttomola@gmail.com, tomola.oke@hotmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:I love home made food, swallow and soups. I am an overthinker, yeah in a good way, a problem solver. lol
+- ⚡ Fun fact:I love home made food, swallow and soups. I am an overthinker, yeah in a good way, a problem solver. I like problems, give me problems.. lol
 - 
 
 <!---
