@@ -7,7 +7,7 @@
 ## Tomola (Richards) Oke's GitHub
 
 
-👋 Hi, I’m Tomola Oke, a passionate entry-level Fullstack Software Developer with a backend focus from Lagos, Nigeria! 🚀 As an enthusiastic innovator skilled in Generative AI and Prompt Engineering, I’m dedicated to crafting cutting-edge tech solutions that simplify lives, spark joy, and create lasting impact. With over 2 years of hands-on backend development experience using Python, Java, Node.js, and the MERN stack, I’ve built scalable systems with standout achievements:
+👋 Hi, I’m Tomola Oke, a passionate entry-level Fullstack Software Developer with a backend focus from Lagos, Nigeria! As an enthusiastic innovator skilled in Generative AI and Prompt Engineering, I’m dedicated to crafting cutting-edge tech solutions that simplify lives, spark joy, and create lasting impact. With over 2 years of hands-on backend development experience using Python, Java, Node.js, and the MERN stack, I’ve built scalable systems with standout achievements:
 
 - Propmate – Engineered a property management platform backend during my 3MTT internship, boosting user sign-ups by 30%.
 
@@ -19,9 +19,9 @@
 
 - Microsoft AI Hackathon Winner – Collaborated with a .NET developer to create a KYC fraud detection app with 95% accuracy, winning the hackathon.
 
-🔥 Starting as a self-taught coder, I mastered RESTful APIs, PostgreSQL, and prompt engineering through late-night learning. With professional training from Verdac Tech, 3MTT Nigeria, CareerEX and now still learning at SAIL Innovation Lab. I’m now exploring QA testing with Jira and Bugzilla, and diving into LangChain and FastAPI to build LLM-driven applications for real-world impact in real estate and community solutions. I excel in agile teams, delivering code with 90% test coverage and clear documentation.
+🔥 Starting as a self-taught developer, I am mastering RESTful APIs, PostgreSQL, and prompt engineering through late-night learning. With professional training from Verdac Tech, 3MTT Nigeria, CareerEX and now still learning at SAIL Innovation Lab. I’m now exploring QA testing with Jira and Bugzilla, and diving into LangChain and FastAPI to build LLM-driven applications for real-world impact in real estate and community solutions. I excel in agile teams, delivering code with 90% test coverage and clear documentation.
 
-🌍 I’m on an inspiring journey to become a world-class AI engineer, blending creativity and precision to solve complex challenges and shape tech’s future. I’m eager to join innovative teams in junior or internship and 'Co-founder' roles to sharpen my skills and contribute meaningfully. et’s connect to code transformative solutions—DM me to explore the possibilities! 💻 Our next breakthrough awaits!
+🌍 I’m on an inspiring journey to become a world-class AI engineer, blending creativity and precision to solve complex challenges and shape tech’s future. I’m eager to join innovative teams in junior or internship and 'Co-founder' roles to sharpen my skills and contribute meaningfully. Let’s connect to code transformative solutions—DM me to explore the possibilities! 💻 Our next breakthrough awaits!
 
 ## Social Links
 [![GitHub](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomolaoke)
